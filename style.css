@@ -1,0 +1,60 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/*main stuff*/
+:root {
+  --bg-color: #171717;
+  --primary-color: #ffffff;
+  --accent-color: #7143f1;
+}
+
+html {
+  background-color: var(--bg-color);
+  font-family: "Inter", sans-serif;
+}
+
+body {
+   max-width: 800px;
+  margin: 20px auto;
+  padding: 0 10px;
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+  font-family: "Inter", sans-serif;
+}
+
+.title {
+  color: var(--accent-color);
+  font-size: 3.5rem;
+}
+
+.spesh {
+  color: #8765e6;
+}
+
+input {
+  background-color: transparent;
+  color: var(--primary-color);
+  outline: none;
+  border: 3px solid var(--accent-color);
+  padding: 10px;
+  border-radius: 9px;
+  transition: 300ms;
+}
+
+input:hover {
+  background-color: rgba(113, 67, 241, 0.6);  
+}
+
+input:focus {
+  transform: scale(1.03, 1.03);
+  background-color: rgba(113, 67, 241, 0.9);  
+  border: 3px solid #ffffff;
+}
+
+input::placeholder {
+  color: var(--primary-color);
+  opacity: 0.9;
+}
