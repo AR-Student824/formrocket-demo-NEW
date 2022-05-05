@@ -64,7 +64,7 @@ input::placeholder {
   opacity: 0.9;
 }
 
-.button {
+.button:active {
   background-color: rgba(95, 53, 211, 0.6);  
 }
 
