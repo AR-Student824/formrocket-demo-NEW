@@ -60,7 +60,7 @@ input::placeholder {
   opacity: 0.9;
 }
 
-button {
+.button {
   margin-top: 6px;
   cursor: pointer;
   background-color: var(--accent-color);
