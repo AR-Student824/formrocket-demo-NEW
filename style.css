@@ -61,7 +61,7 @@ input::placeholder {
 }
 
 .button {
-  margin-top: 6px;
+  margin-top: 12px;
   cursor: pointer;
   background-color: var(--accent-color);
 }
