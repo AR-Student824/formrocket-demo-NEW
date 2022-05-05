@@ -42,6 +42,7 @@ input {
   padding: 10px;
   border-radius: 9px;
   transition: 300ms;
+  font-family: "Inter", sans-serif;
 }
 
 input:hover {
