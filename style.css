@@ -65,6 +65,10 @@ input::placeholder {
 }
 
 .button {
+  background-color: rgba(95, 53, 211, 0.6);  
+}
+
+.button {
   margin-top: 12px;
   cursor: pointer;
   background-color: var(--accent-color);
