@@ -59,3 +59,9 @@ input::placeholder {
   color: var(--primary-color);
   opacity: 0.9;
 }
+
+button {
+  margin-top: 6px;
+  cursor: pointer;
+  background-color: var(--accent-color);
+}
