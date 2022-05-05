@@ -34,7 +34,10 @@ body {
   color: #8765e6;
 }
 
-input {
+input[type="email"],
+input[type="text"],
+input[type="textbox"],
+input[type="number"] {
   background-color: transparent;
   color: var(--primary-color);
   outline: none;
