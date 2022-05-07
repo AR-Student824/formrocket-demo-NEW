@@ -41,6 +41,7 @@ h2 {
 .title {
   font-size: 3.5rem;
   font-weight: 900;
+  margin: none;
 }
 
 .spesh {
