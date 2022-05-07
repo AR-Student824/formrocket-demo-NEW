@@ -24,7 +24,7 @@ body {
   color: var(--primary-color);
   font-family: "Inter", sans-serif;
   -webkit-font-smoothing: antialiased;
-    text-rendering: optimizelegibility;
+  text-rendering: geometricprecision;
     line-height: 1.5;
 }
 
