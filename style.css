@@ -27,7 +27,6 @@ body {
 }
 
 .title {
-  color: var(--accent-color);
   font-size: 3.5rem;
   line-height: -1.5;
   font-weight: 900;
@@ -35,6 +34,10 @@ body {
 
 .spesh {
   color: #8765e6;
+}
+
+.useAccent {
+  color: var(--accent-color);
 }
 
 input {
