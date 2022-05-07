@@ -25,12 +25,12 @@ body {
   font-family: "Inter", sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: geometricprecision;
-    line-height: 1.5;
 }
 
 .title {
   color: var(--accent-color);
   font-size: 3.5rem;
+  line-height: -1.5;
 }
 
 .spesh {
