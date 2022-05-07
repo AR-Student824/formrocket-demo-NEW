@@ -24,7 +24,7 @@ body {
   color: var(--primary-color);
   font-family: "Inter", sans-serif;
   -webkit-font-smoothing: antialiased;
-  letter-spacing: 0;
+  letter-spacing: -0.025em;
 }
 
 .title {
