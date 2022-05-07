@@ -24,7 +24,6 @@ body {
   color: var(--primary-color);
   font-family: "Inter", sans-serif;
   -webkit-font-smoothing: antialiased;
-  text-rendering: geometricprecision;
 }
 
 .title {
