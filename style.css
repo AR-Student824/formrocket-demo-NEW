@@ -27,6 +27,13 @@ body {
   letter-spacing: -0.05em;
 }
 
+.gradient {
+  background: -webkit-linear-gradient(#8a05ff,#7e2cc7)!important;
+  background-clip: text!important;
+  -webkit-background-clip: text!important;
+  -webkit-text-fill-color: transparent!important;
+}
+
 .title {
   font-size: 3.5rem;
   line-height: -1.5;
