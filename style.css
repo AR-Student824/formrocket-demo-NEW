@@ -28,7 +28,7 @@ body {
 }
 
 .gradient {
-  background: -webkit-linear-gradient(112deg, var(--nextui-colors-cyan500) -63.59%, var(--nextui-colors-pink500) -20.3%, var(--nextui-colors-blue500) 70.46%);
+  background: -webkit-linear-gradient(#8a05ff,#7e2cc7);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
